@@ -10,17 +10,17 @@ This project involves exploring the U.S. National Oceanic and Atmospheric Admini
 The data for this assignment come in the form of a comma-separated-value file compressed via the bzip2 algorithm to reduce its size. You can download the file from the course web site:
 
 
-[Storm](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2)Data [47Mb]
+[Storm Data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2) [47Mb]
 
 There is also some documentation of the database available. Here you will find how some of the variables are constructed/defined.
 
-National Weather Service [Storm Data Documentation]((https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf))
+National Weather Service [Storm Data Documentation](https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf)
 
 National Climatic Data Center Storm Events [FAQ](https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2FNCDC%20Storm%20Events-FAQ%20Page.pdf)
 
 The events in the database start in the year 1950 and end in November 2011. In the earlier years of the database there are generally fewer events recorded, most likely due to a lack of good records. More recent years should be considered more complete.
 
-# GRADING CRITERIO OVERVIEW
+# Grading Criterio Overview
 
 1. Has either a (1) valid RPubs URL pointing to a data analysis document for this assignment been submitted; or (2) a complete PDF file presenting the data analysis been uploaded?
 
@@ -53,7 +53,7 @@ The events in the database start in the year 1950 and end in November 2011. In t
 15. As far as you can determine, does it appear that the work submitted for this project is the work of the student who submitted it?
 
 
-# ASSIGMENT
+# Assigment
 
 
 **Assignment**
@@ -104,7 +104,7 @@ Your analysis must have **no more than three figures**. Figures may have multipl
 You must show all your code for the work in your analysis document. This may make the document a bit verbose, but that is okay. In general, you should ensure that 
 **echo = TRUE** for every code chunk (this is the default setting in knitr).
 
-# PUBLISHING YOUR ANALYSIS
+# Publishing Your Analysis
 
 For this assignment you will need to publish your analysis on 
 [RPubs.com](http://rpubs.com/). If you do not already have an account, then you will have to create a new account. After you have completed writing your analysis in RStudio, you can publish it to RPubs by doing the following:
@@ -119,7 +119,7 @@ Once your document is published to RPubs, you should get a unique URL to that do
 
 **NOTE**: If you are having trouble connecting with RPubs due to proxy-related or other issues, you can upload your final analysis document file as a PDF to Coursera instead.
 
-# SUBMITTING YOUR ASSIGNMENT       
+# Submitting Your Assignment       
 
 In order to submit this assignment, you must copy the RPubs URL for your completed data analysis document in to the peer assessment question.
 
